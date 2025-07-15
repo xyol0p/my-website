@@ -1,0 +1,10 @@
+2025-07-15 08:07:11,148 - INFO - Starting comprehensive data collection...
+2025-07-15 08:07:12,149 - INFO - System metrics collected successfully
+2025-07-15 08:07:12,152 - INFO - Sample sales data generated successfully
+2025-07-15 08:07:12,153 - INFO - User analytics data generated successfully
+2025-07-15 08:07:12,153 - INFO - Financial data generated successfully
+2025-07-15 08:07:12,153 - INFO - All data collection completed
+2025-07-15 08:07:13,252 - INFO - Created 3 charts successfully
+2025-07-15 08:07:14,110 - INFO - PDF report generated: reports/comprehensive_report_20250715_080712.pdf
+2025-07-15 08:07:14,181 - INFO - Excel report generated: reports/comprehensive_report_20250715_080714.xlsx
+2025-07-15 08:07:14,186 - INFO - HTML report generated: reports/comprehensive_report_20250715_080714.html
